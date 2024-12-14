@@ -1,41 +1,39 @@
-<h1 align="left">Bem Vindo!</h1>
+<h1 align="left">Welcome</h1>
 
 ###
 
-<p align="left">Me chamo Coficxz</p>
+<p align="left">Coficxz</p>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">Sobre</h2>
 
 ###
 
-<p align="left">🖥️-Estou estudando HTML5 e CSS3</p>
+<p align="left">Estudando HTML5 e CSS3<br>Usuário De Windows</p>
 
 ###
 
-<h2 align="left">Quero Aprender Programar Em</h2>
+<h1 align="left">Aprender Programar Em:</h1>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtlbDVzY3NyOG45ajhsa3g5NHUzcHFiajZ3cWo3dTc4NmJseHBkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNVrFKZF3s61W/giphy.webp"  />
+  <img height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjYyeXZhYmU4MWs5eDRvbXA3dXh1bnU0YjkyeTVuYmk4Yml2Y21mdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VmXr0jlYsTqLbbHWSK/giphy.webp"  />
 </div>
 
 ###
