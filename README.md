@@ -2,8 +2,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Coficxz/Coficxz/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <p align="left">-Olá, Me chamo Francisco Gabriel 🖐</p>
