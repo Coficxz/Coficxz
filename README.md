@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="left">Aprender Programar Em:</h1>
+<h1 align="left">Stack:</h1>
 
 ###
 
