@@ -2,8 +2,6 @@
 
 ###
 
-###
-
 <p align="left">-Olá, Me chamo Francisco Gabriel 🖐</p>
 
 ###
@@ -14,12 +12,12 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/coficxz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=7B68EE&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=7B68EE&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
   <a href="https://www.youtube.com/@Coficxz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=7B68EE&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=7B68EE&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
   </a>
 </div>
 
